@@ -1,29 +1,24 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="description" content="">
-  <meta name="author" content="">
+    <meta charset="utf-8">
+    <title>Optima</title>
 
-  <title>Project Laravel</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	  <!-- CSS only -->
+	  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
 
-  <!-- Bootstrap core CSS -->
-  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-
-  <!-- Custom styles for this template -->
-  <link href="css/shop-homepage.css" rel="stylesheet">
 
 </head>
 
 <body>
-
-  <!-- Navigation -->
-  <nav class="navbar navbar-expand-lg navbar-blank bg-blank fixed-top">
+<nav class="navbar navbar-expand-lg navbar-white bg-white fixed-top">
     <div class="container">
-      <a class="img" href="#">OPTIMA Parts</a>
+      <img src="img/logo.png" alt="" class="img img-fluid"><h6>Spart Parts & Peralatan Kapal</h6>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -48,139 +43,288 @@
     </div>
   </nav>
 
-  <!-- Page Content -->
-  <div class="container">
-
-    <div class="row">
-
-      <div class="col-lg-3">
-
-        
-
-      </div>
-      <!-- /.col-lg-3 -->
-
-      <div class="col-lg-9">
-
-        <div id="carouselExampleIndicators" class="carousel slide my-4" data-ride="carousel">
-          <ol class="carousel-indicators">
-            <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-            <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-            <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-          </ol>
-         
-          <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span class="sr-only">Previous</span>
-          </a>
-          <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-            <span class="sr-only">Next</span>
-          </a>
-        </div>
-
-        <div class="row">
-
-          <div class="col-lg-4 col-md-6 mb-4">
-            <div class="card h-100">
-              <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
-              <div class="card-body">
-                <h4 class="card-title">
-                  <a href="#">Spare Part Kapal 1</a>
-                </h4>
-                <h5>Rp 12,000,000</h5>
-                <p class="card-text"></p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 mb-4">
-            <div class="card h-100">
-              <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
-              <div class="card-body">
-                <h4 class="card-title">
-                  <a href="#">Spare Part Kapal 1</a>
-                </h4>
-                <h5>Rp 12,000,000</h5>
-                <p class="card-text"></p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 mb-4">
-            <div class="card h-100">
-              <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
-              <div class="card-body">
-                <h4 class="card-title">
-                  <a href="#">Spare Part Kapal 1</a>
-                </h4>
-                <h5>Rp 12,000,000</h5>
-                
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 mb-4">
-            <div class="card h-100">
-              <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
-              <div class="card-body">
-                <h4 class="card-title">
-                  <a href="#">Spare Part Kapal 1</a>
-                </h4>
-                <h5>Rp 12,000,000</h5>
-                
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 mb-4">
-            <div class="card h-100">
-              <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
-              <div class="card-body">
-                <h4 class="card-title">
-                  <a href="#">Spare Part Kapal 1</a>
-                </h4>
-                <h5>Rp 12,000,000</h5>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 mb-4">
-            <div class="card h-100">
-              <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
-              <div class="card-body">
-                <h4 class="card-title">
-                  <a href="#">Spare Part Kapal 1</a>
-                </h4>
-                <h5>Rp 12,000,000</h5>
-                
-              </div>
-            </div>
-          </div>
-
-        </div>
-        <!-- /.row -->
-
-      </div>
-      <!-- /.col-lg-9 -->
-
-    </div>
-    <!-- /.row -->
-
-  </div>
-  <!-- /.container -->
-
-  <!-- Footer -->
-  <footer class="py-5 bg-dark">
+<div style="padding-top: 100px; height: 250px;  background-color: #082750;" >
     <div class="container">
-      <p class="m-0 text-center text-white">Copyright &copy; 2020 OPTIMA Parts</p>
+      <h4 style="color: white; line-height: 50px; margin-bottom: 20px;" >Cari spare part & aneka peralatan kapal yang anda inginkan</h4>
+      <form class="form-inline my-2 my-lg-0">
+          <div style="margin top:-50px"> 
+          <input class="form-control mr-sm-2" type="search" placeholder="Ketik Pencarian Anda" aria-label="Search" style="padding-right: 500px; margin-left: 1px;">
+      		<select class="btn btn-light my-2 my-sm-0"><option>Semua Kategori</option>
+      		</select>
+      		<button class="btn btn-success my-2 my-sm-0" type="submit">Cari</button>
+      </form>
     </div>
-    <!-- /.container -->
-  </footer>
+    </div>
+</div>
 
-  <!-- Bootstrap core JavaScript -->
-  <script src="vendor/jquery/jquery.min.js"></script>
-  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+<section class="outer-home-middle back-whitw">
+		<div class="container">
+			<div class="insides">
+				<!-- start top widget -->
+				<div class="tops-in-widget">
+					<div class="row">
+						<div class="col">
+							<span class="products_info">PRODUK TERBARU</span>
+						</div>
+						<div class="col text-center">
+							<div class="backs-default-product">
+								<a href="#" class="btn btn-link">Lihat Semua Produk <i class="fa fa-chevron-right"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- end top widget -->
+
+				<!-- start block list product -->
+				<div class="block-list-default-products">
+					<div class="row">
+						<div class="col-md-3">
+							<div class="box-items">
+								<div class="picture"><img src="img/1.jpeg" alt="" class="img img-fluid"></div>
+								<div class="text-dark">
+									<h5 class="name-product">Spare Parts Kapal 1</h5>
+									<div class="pice_blok"><p>Rp. 50.000,-<strike>Rp. 75.000,-</strike></p></div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-3">
+							<div class="box-items">
+								<div class="picture"><img src="img/2.jpeg" alt="" class="img img-fluid"></div>
+								<div class="text-dark">
+									<h5 class="name-product">Spare Parts Kapal 1</h5>
+									<div class="pice_blok"><p>Rp. 50.000,-<strike>Rp. 75.000,-</strike></p></div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-3">
+							<div class="box-items">
+								<div class="picture"><img src="img/3.jpeg" alt="" class="img img-fluid"></div>
+								<div class="text-dark">
+									<h5 class="name-product">Spare Parts Kapal 1</h5>
+									<div class="pice_blok"><p>Rp. 50.000,-<strike>Rp. 75.000,-</strike></p></div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-3">
+							<div class="box-items">
+								<div class="picture"><img src="img/4.jpeg" alt="" class="img img-fluid"></div>
+								<div class="text-dark">
+									<h5 class="name-product">Spare Parts Kapal 1</h5>
+									<div class="pice_blok"><p>Rp. 50.000,-<strike>Rp. 75.000,-</strike></p></div>
+								</div>
+							</div>
+						</div>
+						
+					</div>
+				</div>
+				<!-- end block list product -->
+
+				<div class="clear"></div>
+			</div>
+		</div>
+  </section>
+
+  <section class="outer-home-middle back-white">
+		<div class="container">
+			<div class="insides">
+				<!-- start top widget -->
+				<div class="tops-in-widget">
+					<div class="row">
+						<div class="col">
+							<span class="products_info"></span>
+						</div>
+						<div class="col text-center">
+							<div class="backs-default-product">
+								<a href="#" class="btn btn-link"></a>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- end top widget -->
+
+				<!-- start block list product -->
+				<div class="block-list-default-products">
+					<div class="row">
+						<div class="col-md-3">
+							<div class="box-items">
+								<div class="picture"><img src="img/5.jpeg" alt="" class="img img-fluid"></div>
+								<div class="text-dark">
+									<h5 class="name-product">Spare Parts Kapal 1</h5>
+									<div class="pice_blok"><p>Rp. 50.000,-<strike>Rp. 75.000,-</strike></p></div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-3">
+							<div class="box-items">
+								<div class="picture"><img src="img/6.jpeg" alt="" class="img img-fluid"></div>
+								<div class="text-dark">
+									<h5 class="name-product">Spare Parts Kapal 1</h5>
+									<div class="pice_blok"><p>Rp. 50.000,-<strike>Rp. 75.000,-</strike></p></div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-3">
+							<div class="box-items">
+								<div class="picture"><img src="img/7.jpeg" alt="" class="img img-fluid"></div>
+								<div class="text-dark">
+									<h5 class="name-product">Spare Parts Kapal 1</h5>
+									<div class="pice_blok"><p>Rp. 50.000,-<strike>Rp. 75.000,-</strike></p></div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-3">
+							<div class="box-items">
+								<div class="picture"><img src="img/8.jpeg" alt="" class="img img-fluid"></div>
+								<div class="text-dark">
+									<h5 class="name-product">Spare Parts Kapal 1</h5>
+									<div class="pice_blok"><p>Rp. 50.000,-<strike>Rp. 75.000,-</strike></p></div>
+								</div>
+							</div>
+						</div>
+						
+					</div>
+				</div>
+				<!-- end block list product -->
+
+				<div class="clear"></div>
+			</div>
+		</div>
+  </section>
+
+  <section class="outer-home-middle back-white">
+		<div class="container">
+			<div class="insides">
+				<!-- start top widget -->
+				<div class="tops-in-widget">
+					<div class="row">
+						<div class="col">
+							<span class="products_info"></span>
+						</div>
+						<div class="col text-center">
+							<div class="backs-default-product">
+								<a href="#" class="btn btn-link"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- end top widget -->
+
+				<!-- start block list product -->
+				<div class="block-list-default-products">
+					<div class="row">
+						<div class="col-md-3">
+							<div class="box-items">
+								<div class="picture"><img src="img/1.jpeg" alt="" class="img img-fluid"></div>
+								<div class="text-dark">
+									<h5 class="name-product">Spare Parts Kapal 1</h5>
+									<div class="pice_blok"><p>Rp. 50.000,-<strike>Rp. 75.000,-</strike></p></div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-3">
+							<div class="box-items">
+								<div class="picture"><img src="img/2.jpeg" alt="" class="img img-fluid"></div>
+								<div class="text-dark">
+									<h5 class="name-product">Spare Parts Kapal 1</h5>
+									<div class="pice_blok"><p>Rp. 50.000,-<strike>Rp. 75.000,-</strike></p></div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-3">
+							<div class="box-items">
+								<div class="picture"><img src="img/3.jpeg" alt="" class="img img-fluid"></div>
+								<div class="text-dark">
+									<h5 class="name-product">Spare Parts Kapal 1</h5>
+									<div class="pice_blok"><p>Rp. 50.000,-<strike>Rp. 75.000,-</strike></p></div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-3">
+							<div class="box-items">
+								<div class="picture"><img src="img/4.jpeg" alt="" class="img img-fluid"></div>
+								<div class="text-dark">
+									<h5 class="name-product">Spare Parts Kapal 1</h5>
+									<div class="pice_blok"><p>Rp. 50.000,-<strike>Rp. 75.000,-</strike></p></div>
+								</div>
+							</div>
+						</div>
+						
+					</div>
+				</div>
+				<!-- end block list product -->
+
+				<div class="clear"></div>
+			</div>
+		</div>
+  </section>
+
+  <section class="outer-home-middle back-white">
+		<div class="container">
+			<div class="insides">
+				<!-- start top widget -->
+				<div class="tops-in-widget">
+					<div class="row">
+						<div class="col">
+							<span class="products_info"></span>
+						</div>
+						<div class="col text-center">
+							<div class="backs-default-product">
+								<a href="#" class="btn btn-link"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- end top widget -->
+
+				<!-- start block list product -->
+				<div class="block-list-default-products">
+					<div class="row">
+						<div class="col-md-3">
+							<div class="box-items">
+								<div class="picture"><img src="img/5.jpeg" alt="" class="img img-fluid"></div>
+								<div class="text-dark">
+									<h5 class="name-product">Spare Parts Kapal 1</h5>
+									<div class="pice_blok"><p>Rp. 50.000,-<strike>Rp. 75.000,-</strike></p></div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-3">
+							<div class="box-items">
+								<div class="picture"><img src="img/6.jpeg" alt="" class="img img-fluid"></div>
+								<div class="text-dark">
+									<h5 class="name-product">Spare Parts Kapal 1</h5>
+									<div class="pice_blok"><p>Rp. 50.000,-<strike>Rp. 75.000,-</strike></p></div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-3">
+							<div class="box-items">
+								<div class="picture"><img src="img/7.jpeg" alt="" class="img img-fluid"></div>
+								<div class="text-dark">
+									<h5 class="name-product">Spare Parts Kapal 1</h5>
+									<div class="pice_blok"><p>Rp. 50.000,-<strike>Rp. 75.000,-</strike></p></div>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-3">
+							<div class="box-items">
+								<div class="picture"><img src="img/8.jpeg" alt="" class="img img-fluid"></div>
+								<div class="text-dark">
+									<h5 class="name-product">Spare Parts Kapal 1</h5>
+									<div class="pice_blok"><p>Rp. 50.000,-<strike>Rp. 75.000,-</strike></p></div>
+								</div>
+							</div>
+						</div>
+						
+					</div>
+				</div>
+				<!-- end block list product -->
+
+				<div class="clear"></div>
+			</div>
+		</div>
+  </section>
 
 </body>
 
